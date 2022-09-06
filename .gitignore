@@ -1,3 +1,6 @@
 .env
 __pycache__
 api_keys.json
+config.py
+timer.py
+new_test.py
